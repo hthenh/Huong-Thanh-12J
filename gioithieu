@@ -13,11 +13,11 @@
         <tr>
         <td>
             
-        <h3 style="color: tomato;">Thông tin cá nhân</h3> 
+        <h1 style="color: tomato;">Thông tin cá nhân</h1> 
             Họ tên: <b> Vũ Hương Thanh</b> <br>
             Nickname: <b> Siren</b>   <br>
         <h3 style="color: tomato"> Sở thích</h3>    
-            <i>Xem phim hoạt hình. </i> <br>
+            <i>Đi ăn,đi chơi. </i> <br>
         <td>
     </table>
 
