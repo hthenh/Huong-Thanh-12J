@@ -4,7 +4,7 @@
     <link href="../style.css" rel="stylesheet" type="text/css">
   </head>
   <body>
-    <h1> Đóng góp ...</h1>
+    <h1> Đóng góp </h1>
     <form action="bai7_nv3.html"> <!bước 4>
       <label>Họ và tên: </label>
       <input type="text" id="ten" name="ten"> <br>
